@@ -1,5 +1,5 @@
 ## COVID-19-impact-on-US-retail-industry-and-US-financial-industry-
-The purpose of the dashboards is to analyze how COVID-19 has impacted on the financial health of these industries and compare financial performance of the industries within each sector and across sectors. 
+The purpose of the Tableau dashboards is to analyze how COVID-19 has impacted on the financial health of these industries and compare financial performance of the industries within each sector and across sectors. 
 
 2020 was the most challenging year for many industries in a very long time. Trade and Business abruptly stopped when billions of people were told to stay at home. The U.S economy and financial and retail markets faced unexpected crises of uncertain proportions. The coronavirus (COVID-19) outbreak caused widespread concern and economic hardship for consumers, businesses, and communities across the globe. We have analyzed the data to understand the volatility in the U.S Retail and Financial Markets turmoil by analyzing different financial metrics of industries 
 
